@@ -9,3 +9,4 @@ pikabu.ru##.story__user
 pikabu.ru##.b-page-story__bf-comments
 pikabu.ru##.gamification-btn
 pikabu.ru##.story-block_type_fundraising
+pikabu.ru##.sidebar-public-ratings
