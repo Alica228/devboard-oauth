@@ -1,3 +1,4 @@
+! 23 ноября 2026 г. https://pikabu.ru
 pikabu.ru##.comment__body > .comment__emotions
 pikabu.ru##.story__main .story__emotions
 pikabu.ru##.feed-games-carousel
@@ -10,3 +11,9 @@ pikabu.ru##.b-page-story__bf-comments
 pikabu.ru##.gamification-btn
 pikabu.ru##.story-block_type_fundraising
 pikabu.ru##.sidebar-public-ratings
+
+! 21 апр. 2025 г. https://www.youtube.com
+youtube.com##.ytp-ce-element
+
+! 20 мая 2025 г. https://www.myheritage.com
+myheritage.com##div#cookie_preferences_banner_root
