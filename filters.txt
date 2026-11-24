@@ -15,6 +15,7 @@ pikabu.ru##.sidebar-public-ratings
 pikabu.ru##.comstories-section
 pikabu.ru##.app-b__host--FMx1pzh8
 pikabu.ru###try-neuro
+pikabu.ru##.b-page-story__bf-comments > .section-group
 
 ! 21 апр. 2025 г. https://www.youtube.com
 youtube.com##.ytp-ce-element
