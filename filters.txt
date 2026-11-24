@@ -11,6 +11,8 @@ pikabu.ru##.gamification-btn
 pikabu.ru##.story-block_type_fundraising
 pikabu.ru##.sidebar-public-ratings
 pikabu.ru##div[data-v-app]
+pikabu.ru##.section-group
+pikabu.ru##.comstories-section
 
 ! 21 апр. 2025 г. https://www.youtube.com
 youtube.com##.ytp-ce-element
