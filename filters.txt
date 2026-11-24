@@ -11,7 +11,7 @@ pikabu.ru##.gamification-btn
 pikabu.ru##.story-block_type_fundraising
 pikabu.ru##.sidebar-public-ratings
 ! pikabu.ru##div[data-v-app]
-pikabu.ru##.section-group
+! pikabu.ru##.section-group
 pikabu.ru##.comstories-section
 pikabu.ru##.app-b__host--FMx1pzh8
 pikabu.ru###try-neuro
